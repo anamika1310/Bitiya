@@ -1,7 +1,7 @@
 ## Pre Bitiya learning Status
 
 ### Sept 17, 2018
-* [ ] Learning Decision boundary Machine learning algorithm.
+* [ ] Learning Decision boundary Machine learning algorithm.:+1:
 ### Sept 16, 2018
 * [ ] Trying to understand Mycroft code.
 * [x] Read about susi skills
