@@ -5,7 +5,7 @@ Pre Bitiya-  Learn and Upload the Code!!
 
 - [Anil Khatri](https://github.com/imkaka/Bitiya/blob/master/status.md "Anil Khatri")
 - Ankita Agnihotri
-- Anamika Gupta
+- [Anamika Gupta]((https://github.com/anamika1310/Bitiya/blob/master/status.md "Anamika Gupta")
 - Saurabh Srivastava
 - Isha Srivastava
 - Vivek Verma
