@@ -1,6 +1,16 @@
 ## Pre Bitiya learning Status
 
-### Sept 10, 2018
-* [x] Gone through basic Python
-* [x] Built a basic Calculator in Python
-* [x] Downloaded Mycroft in my System.
+### Sept 13, 2018
+* [x] Installed Ubuntu
+* [x] There were a problem cause of which ubuntu was not opening without bootable disk so repaired boot.
+### Sept 14, 2018
+* [x] Installed Mycroft.
+* [x] Did coding
+### Sept 15, 2018
+* [x] Revised Naive Bayes and SVM learning algorithm.
+* [x] Revised Numpy and Matplotlib library and practced on it.
+### Sept 16, 2018
+* [x] Tried to understand Mycroft code.
+* [x] Read about susi skills
+### Sept 17, 2018
+* [x] Learned Decision boundary Machine learning algorithm.
