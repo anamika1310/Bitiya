@@ -7,8 +7,8 @@
 * [x] Installed Mycroft.
 * [x] Did coding
 ### Sept 15, 2018
-* [x] Revised Naive Bayes and SVM learning algorithm.
-* [x] Revised Numpy and Matplotlib library and practced on it.
+* [x] Revised Naive Bayes and SVM learning algorithms.
+* [x] Revised Numpy and Matplotlib library and practiced on it.
 ### Sept 16, 2018
 * [x] Tried to understand Mycroft code.
 * [x] Read about susi skills
