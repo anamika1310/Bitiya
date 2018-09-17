@@ -1,6 +1,6 @@
 ## Pre Bitiya learning Status
 
-###:point_right: Sept 17, 2018
+:point_right: **Sept 17, 2018**
 * [ ] Learning Decision boundary Machine learning algorithm.
 ### Sept 16, 2018
 * [ ] Trying to understand Mycroft code.
