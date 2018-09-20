@@ -1,4 +1,5 @@
 ## Pre Bitiya learning Status
+
 :point_right: **Sept 19, 2018**
 * [ ] Started NLP from edx.
 ###Sept 18,2018
