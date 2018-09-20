@@ -1,6 +1,10 @@
 ## Pre Bitiya learning Status
-
-:point_right: **Sept 17, 2018**
+:point_right: **Sept 19, 2018**
+* [ ] Started NLP from edx.
+###Sept 18,2018
+* [x] gone through the skills which mycroft has.
+* [ ] Learning Decision Tree Algorithm. 
+###Sept 17, 2018
 * [ ] Learning Decision Tree Machine learning algorithm.
 ### Sept 16, 2018
 * [ ] Trying to understand Mycroft code.
