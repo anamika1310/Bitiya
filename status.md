@@ -1,6 +1,7 @@
 ## Pre Bitiya learning Status
-
-:point_right: **Sept 19, 2018**
+:point_right: **Sept 20, 2018**
+* [x] Learnt and used Decision tree algorithm for Email classifier and checked its accuracy for different different values of sample split value.
+### Sept 19, 2018
 * [ ] Started NLP from edx.
 ### Sept 18,2018
 * [x] gone through the skills which mycroft has.
