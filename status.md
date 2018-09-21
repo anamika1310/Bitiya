@@ -1,5 +1,9 @@
 ## Pre Bitiya learning Status
 :point_right: **Sept 20, 2018**
+* [x] Learnt [KNN algorithm](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/) and did its implementation on iris dataset.
+* [x] Read about CSV format.
+* [x] Read about word to vector.
+### Sept 20, 2018
 * [x] Learnt and used Decision tree algorithm for Email classifier and checked its accuracy for different different values of sample split value.
 ### Sept 19, 2018
 * [ ] Started NLP from edx.
