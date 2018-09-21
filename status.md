@@ -1,5 +1,5 @@
 ## Pre Bitiya learning Status
-:point_right: **Sept 20, 2018**
+:point_right: **Sept 21, 2018**
 * [x] Learnt [KNN algorithm](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/) and did its implementation on iris dataset.
 * [x] Read about CSV format.
 * [x] Read about word to vector.
