@@ -2,6 +2,7 @@
 :point_right: **Sept 22, 2018**
 * [x] Read about [Adaboost algorithm](https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/) for training the dataset
 * [x] Read Panda library in python and practiced on it.
+* [x] Read about word2vector and word embedding.
 ### Sept 21, 2018
 * [x] Learnt [KNN algorithm](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/) and did its implementation on iris dataset.
 * [x] Read about CSV format.
