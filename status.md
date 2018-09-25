@@ -1,5 +1,13 @@
 ## Pre Bitiya learning Status
-:point_right: **Sept 22, 2018**
+:point_right: **Sept 25, 2018**
+* [x] Revised file handelling in python.
+* [x] Knew unicode of hindi letters and did some testing on them
+### Sept 24,2018
+* [x] Go through the Loan data and written the code to train the data for checking the status of loan for new customer.
+* [x] Downloaded NLDT library for tokenizing thw english sentences or words.
+### Sept 23, 2018
+* [x] Read about Random forest algorithm and implemented it.
+### Sept 22, 2018
 * [x] Read about [Adaboost algorithm](https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/) for training the dataset
 * [x] Reading Panda library in python.
 * [x] Read about word2vector and word embedding.
