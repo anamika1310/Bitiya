@@ -1,6 +1,6 @@
 ## Pre Bitiya learning Status
 :point_right: **Sept 25, 2018**
-* [x] Revised file handelling in python.
+* [x] Revised file handling in python.
 * [x] Knew unicode of hindi letters and did some testing on them
 ### Sept 24,2018
 * [x] Go through the Loan data and written the code to train the data for checking the status of loan for new customer.
