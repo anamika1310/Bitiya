@@ -2,6 +2,7 @@
 :point_right: **Sept 26, 2018**
 * [x] Improved accuracy of loan prediction dataset upto 81%.
 * [x] Learnt and practiced on [Cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html) for model validation.
+* [x] Read Mycroft doc.
 ### Sept 25,2018
 * [x] Revised file handling in python.
 * [x] Knew unicode of hindi letters and did some testing on them
