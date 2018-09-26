@@ -8,7 +8,7 @@
 * [x] Knew unicode of hindi letters and did some testing on them
 ### Sept 24,2018
 * [x] Written code to train the loan prediction dataset for checking the status of loan for new customer.
-* [x] Downloaded NLDT library for tokenizing the english sentences or words.
+* [x] Downloaded [NLTK](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/) library for tokenizing the english sentences or words.
 ### Sept 23, 2018
 * [x] Read about Random forest algorithm and implemented it.
 ### Sept 22, 2018
