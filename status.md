@@ -6,11 +6,11 @@
 * [x] Learnt about pipeline and vocab, hashes & Lexems.
 * [x] Learnt about bag of words and Tfidf vectorizer in Text learning.
 ### Oct 4,2018
+* [x] Learnt about [Training Spacy's statistical model](https://spacy.io/usage/training)and how to add new entties and training own model
+* [x] Learnt about [BILUO scheme](https://spacy.io/usage/linguistic-features#updating-biluo)
+### Oct 3,2018
 * [x] Explored about clustering and practiced on it over enron dataset using K-Mean clustering algorithm.
 * [x] Explored about name entities recognition(NER) ,word vectors and similarity in Spacy and practiced over dummy data.
-### Oct 3,2018
-* [x] Learnt about [Training Spacy's statistical model](https://spacy.io/usage/training)
-* [x] Learnt about [BILUO scheme](https://spacy.io/usage/linguistic-features#updating-biluo)
 ### Oct 2,2018
 * [x] Read about some [features of Spacy](https://spacy.io/usage/spacy-101) like tokenization,POS tagging,dependency parsing lemmetization and so on.
 * [x] Coding for practicing on these features over some dummy data.
