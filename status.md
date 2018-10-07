@@ -1,6 +1,6 @@
 ## Pre Bitiya learning Status
 :point_right: **Oct 6, 2018**
-* [x] Read about [RASA NLU] (https://rasa.com/docs/nlu/0.12.0/tutorial/) with restaurant bot example.
+* [x] Read about [RASA NLU](https://rasa.com/docs/nlu/0.12.0/tutorial/) with restaurant bot example.
 * [x] Learnt about [Data and Training format in NLU](https://rasa.com/docs/nlu/0.12.0/dataformat/#section-dataformat).
 ### Oct 5,2018
 * [x] Learnt about pipeline and vocab, hashes & Lexems.
