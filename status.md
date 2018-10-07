@@ -1,5 +1,36 @@
 ## Pre Bitiya learning Status
-:point_right: **Sept 26, 2018**
+:point_right: **Oct 6, 2018**
+* [x] Read about [RASA NLU] (https://rasa.com/docs/nlu/0.12.0/tutorial/) with restaurant bot example.
+* [x] Learnt about [Data and Training format in NLU](https://rasa.com/docs/nlu/0.12.0/dataformat/#section-dataformat).
+### Oct 5,2018
+* [x] Learnt about pipeline and vocab, hashes & Lexems.
+* [x] Learnt about bag of words and Tfidf vectorizer in Text learning.
+### Oct 4,2018
+* [x] Explored about clustering and practiced on it over enron dataset using K-Mean clustering algorithm.
+* [x] Explored about name entities ,word vectors and similarity in Spacy and practiced over dummy data.
+### Oct 3,2018
+* [x] Learnt about [Training Spacy's statistical model](https://spacy.io/usage/training)
+* [x] Learnt about [BILUO scheme](https://spacy.io/usage/linguistic-features#updating-biluo)
+### Oct 2,2018
+* [x] Read about some [features of Spacy](https://spacy.io/usage/spacy-101) like tokenization,POS tagging,dependency parsing lemmetization and so on.
+* [x] Coding for practicing on these features over some dummy data.
+### Oct 1,2018
+* [x] Read about Spacy NLP tool.
+* [x] Read about Scipy library and some of its statistical tools.
+* [x] Explored the [difference between NLTK and Spacy tools](https://spacy.io/usage/facts-figures) in NLP.
+### Sept 30,2018
+* [x] Trained Enron dataset with its two features using Linearregression model.
+* [x] Continued on Parts of speech tagging in nltk ang tagged some words with pos through programming.
+### Sept 29,2018
+* [x] Revised and explored some parameters of matplotlib library 
+* [x] Downloaded Enron dataset ,expolred the dataset for training and analyze it to find POI(person of interest).
+### Sept 28,2018
+* [x] Learnt stemming,chunking and chinking in NLP using NLTK and did coding on them.
+* [x] Did coding on outliers.
+### Sept 27,2018
+* [x] Practiced on regression and did coding on it.
+* [x] Learnt tokenizer, stopwords and POS in NLP using NLTK and did coding on them.
+### Sept 26,2018
 * [x] Improved accuracy of loan prediction dataset upto 81%.
 * [x] Learnt and practiced on [Cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html) for model validation.
 * [x] Read Mycroft doc.
